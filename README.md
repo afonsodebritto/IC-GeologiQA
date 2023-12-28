@@ -1,2 +1,2 @@
-# IC-GeologiQA
-Cientific initiation on computer vision (CV) and natural language processing (NLP)
+To run this code, first run this command on your command prompt:
+# pip install transformers torch datasets
